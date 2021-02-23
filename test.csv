@@ -1,0 +1,41 @@
+﻿Date,Order #,Status,Customer,Product(s),Items Sold,Coupon(s),N. Revenue
+2/21/2021 19:16,2732,completed,new,"4× Sixpack Château del ISH, 12× Château del ISH Sparkling Rosé neu, 12× Château del ISH Sparkling White",28,,"63,53"
+2/21/2021 13:54,2731,completed,new,"1× the original, 1× GinISH, 1× Sparkling Chardonnay, 1× EINS-ZWEI-ZERO Riesling",4,,"51,76"
+2/21/2021 9:40,2730,completed,new,"1× EINS-ZWEI-ZERO Riesling, 1× RumISH",2,,"23,36"
+2/20/2021 19:52,2729,completed,new,"1× the original, 1× No. 7 This is not Orange Bitter, 1× No. 2 This is not Gin",3,,"51,08"
+2/19/2021 13:40,2728,completed,returning,24× Château del ISH Sparkling White,24,zeropercent2020,0
+2/19/2021 9:09,2727,completed,returning,24× Château del ISH Sparkling White,24,zeropercent2020,0
+2/18/2021 20:35,2726,completed,new,"1× Sixpack Galipette 0%, 6× Galipette 0%, 2× DDH IPA, 2× IPA, 1× No. 9 This is not Red Vermouth, 1× No. 8 This is not Vermouth, 1× Summer Ale, 1× the original",15,,"73,94"
+2/18/2021 18:50,2725,completed,returning,4× the original,4,,"73,61"
+2/18/2021 15:24,2724,completed,returning,2× EINS-ZWEI-ZERO Riesling,2,zeropercent2020,0
+2/18/2021 12:35,2723,completed,new,"1× DDH IPA, 1× Sixpack, 2× Stereo Pils, 2× Summer Ale, 2× IPA, 6× Galipette 0%",14,,"23,89"
+2/18/2021 9:50,2722,completed,new,"1× EINS-ZWEI-ZERO Sparkling Riesling, 2× EINS-ZWEI-ZERO Riesling, 2× SpritzISH",5,,"27,13"
+2/17/2021 22:37,2720,completed,new,"4× SpritzISH, 2× Galipette 0%, 1× EINS-ZWEI-ZERO Riesling",7,,"21,2"
+2/17/2021 20:02,2719,completed,new,"1× GinISH, 1× Sixpack IPA, 6× IPA",8,,"28,52"
+2/17/2021 12:24,2716,completed,returning,24× Nordic Tonic Water,24,zeropercent2020,0
+2/17/2021 9:19,2715,completed,returning,24× EINS-ZWEI-ZERO Sparkling Riesling,24,zeropercent2020,0
+2/16/2021 23:22,2714,completed,new,"1× No. 7 This is not Orange Bitter, 1× No. 1 This is not Rum, 1× EINS-ZWEI-ZERO Riesling, 1× EINS-ZWEI-ZERO Sparkling Rosé, 1× EINS-ZWEI-ZERO Rosé",5,,"54,28"
+2/16/2021 22:27,2713,completed,new,"1× RumISH, 1× GinISH, 1× Sixpack IPA, 6× IPA, 1× Sixpack, 2× Stereo Pils, 2× Summer Ale, 2× IPA",16,,"54,52"
+2/16/2021 16:08,2711,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 16:04,2710,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 16:00,2709,completed,returning,"3× GinISH, 3× RumISH, 24× GinISH & Tonic, 24× SpritzISH",54,zeropercent2020,0
+2/16/2021 15:56,2708,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 15:48,2707,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 15:46,2706,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 15:44,2705,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 15:40,2704,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 15:38,2703,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 15:35,2702,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 15:33,2701,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× RumISH, 3× GinISH",54,zeropercent2020,0
+2/16/2021 15:31,2700,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 15:29,2699,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 15:27,2698,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 15:23,2697,completed,returning,"24× SpritzISH, 24× GinISH & Tonic, 3× GinISH, 3× RumISH",54,zeropercent2020,0
+2/16/2021 8:56,2694,completed,new,"1× EINS-ZWEI-ZERO Sparkling Riesling, 1× EINS-ZWEI-ZERO Riesling, 2× SpritzISH",4,,"19,99"
+2/15/2021 16:44,2692,completed,returning,"2× SpritzISH, 2× GinISH & Tonic, 1× GinISH, 1× RumISH",6,zeropercent2020,0
+2/15/2021 12:51,2688,completed,returning,"6× EINS-ZWEI-ZERO Rosé, 1× EINS-ZWEI-ZERO Sparkling Riesling, 1× EINS-ZWEI-ZERO Sparkling Rosé, 1× Noughty Sparkling, 750ml, 3× Porridge cup",12,,"76,53"
+2/15/2021 12:37,2687,completed,new,"12× EINS-ZWEI-ZERO Sparkling Rosé, 1× Purify Tee, 1× Energise Tee",14,,"133,43"
+2/15/2021 11:52,2686,completed,new,"2× the original, 2× No. 2 This is not Gin",4,,"72,09"
+2/15/2021 10:41,2685,completed,returning,"2× SpritzISH, 2× GinISH & Tonic, 1× Château del ISH Sparkling White, 1× Château del ISH Sparkling Rosé, 1× RumISH, 1× GinISH, 1× Château del ISH Sparkling White, 1× Château del ISH Sparkling Rosé, 1× EINS-ZWEI-ZERO Sparkling Rosé, 1× EINS-ZWEI-ZERO Sparkling Riesling, 1× EINS-ZWEI-ZERO Rosé, 1× EINS-ZWEI-ZERO Sparkling Rosé, 1× EINS-ZWEI-ZERO Sparkling Riesling, 1× Sparkling Chardonnay, 1× No. 2 This is not Gin, 1× No. 7 This is not Orange Bitter, 1× No. 8 This is not Vermouth, 1× Stereo Pils, 1× IPA, 1× Summer Ale, 1× Sparkling Rosé, 1× Sparkling Gold",24,zeropercent2020,0
+2/15/2021 8:54,2683,completed,returning,6× IPA,6,zeropercent2020,0
+2/15/2021 8:01,2681,completed,new,"12× Château del ISH Sparkling White, 6× Château del ISH Sparkling Rosé",18,,"195,12"
